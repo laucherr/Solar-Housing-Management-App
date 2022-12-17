@@ -1,5 +1,5 @@
 # Solar-Housing-Management-App
-A housing management app that manages tenant, home owner and property details.
+A housing management app that manages tenant, home owner and property details in the form of a desktop application.
 
 
 # Screenshots
